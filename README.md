@@ -84,7 +84,7 @@ git clone https://github.com/rodrigobarbozadias/cursofia-ml-deeplearning.git
 ## 📊 Principais Projetos
 
 - **iFood Campaign Response**: Análise e modelagem de resposta a campanhas de marketing
-- **Fashion MNIST**: Classificação de imagens de roupas usando Deep Learning
+- **Fashion MNIST**: Classificação de imagens usando Deep Learning
 - **Spam Detection**: Classificação binária de mensagens spam
 - **Customer Clustering**: Segmentação de clientes usando técnicas de clusterização
 
