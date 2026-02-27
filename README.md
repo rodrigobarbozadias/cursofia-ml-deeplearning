@@ -1,3 +1,5 @@
+Machine Learning and Deep Learning projects from my FIA Business School postgraduate program (2024-2025). Includes classification, regression, clustering, deep learning, and a capstone customer segmentation project
+
 # 🎓 Projetos de Machine Learning e Deep Learning - FIA
 
 Repositório contendo os projetos desenvolvidos durante o curso de Machine Learning e Deep Learning da FIA.
